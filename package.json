@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3",
+    "bootstrap-icons": "^1.10.5",
+    "scrollreveal": "^4.0.9",
+    "webpack": "^5.81.0"
+  }
+}

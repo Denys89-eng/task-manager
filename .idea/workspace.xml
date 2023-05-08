@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6af4b3cf-356d-43c8-8741-a8cd345e80c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2OtQMqmGGTneQlsf2kqVhNGKJZw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Денис\Desktop\todo\js" />
+      <recent name="C:\Users\Денис\Desktop\todo\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af4b3cf-356d-43c8-8741-a8cd345e80c8" name="Default Changelist" comment="" />
+      <created>1682377353087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682377353087</updated>
+      <workItem from="1682377354111" duration="4838000" />
+      <workItem from="1682451476039" duration="10979000" />
+      <workItem from="1682492714682" duration="580000" />
+      <workItem from="1682600764881" duration="11287000" />
+      <workItem from="1682617693577" duration="4012000" />
+      <workItem from="1682964058017" duration="7600000" />
+      <workItem from="1683025667025" duration="4913000" />
+      <workItem from="1683065478550" duration="422000" />
+      <workItem from="1683109032830" duration="11953000" />
+      <workItem from="1683141504093" duration="8471000" />
+      <workItem from="1683555210014" duration="1779000" />
+      <workItem from="1683557024011" duration="1128000" />
+      <workItem from="1683563676103" duration="1569000" />
+      <workItem from="1683565523946" duration="1269000" />
+      <workItem from="1683577939692" duration="1801000" />
+      <workItem from="1683579774729" duration="1779000" />
+      <workItem from="1683581585909" duration="2746000" />
+      <workItem from="1683586818099" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="86" y="0" key="SettingsEditor" timestamp="1682377980397">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="86" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1682377980397" />
+    <state x="544" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1683143499463">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="544" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1683143499463" />
+  </component>
+</project>
